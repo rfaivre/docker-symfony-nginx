@@ -1,2 +1,1 @@
-# site-symfony
-test
+# Docker-compose with Nginx, PHP-FPM and Mysql
